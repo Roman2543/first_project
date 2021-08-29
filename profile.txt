@@ -1,4 +1,4 @@
 62114392 Roman Wannaborworn
-age: 21
+
 62103932 Thanawat Kulchaiyapat
 age: 
